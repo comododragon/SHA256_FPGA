@@ -16,7 +16,7 @@ This project is composed by a host platform (e.g. Intel Galileo Gen2 or Raspberr
 
 ## Notes
 
-This project was developed as a coursework for a MSc module. By no means it is intended as a performance system, since current communication bus is a huge bottleneck.
+This project was developed as a coursework for a MSc module. By no means it is intended to be used as is, since current communication bus is a huge bottleneck and symmetric cryptograhy is used instead of assymetric.
 
 ## Project structure
 
